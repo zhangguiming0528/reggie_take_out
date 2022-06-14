@@ -82,7 +82,7 @@
             <version>1.1.23</version>
         </dependency>
     </dependencies>
-的
+
     <build>
         <plugins>
             <plugin>
